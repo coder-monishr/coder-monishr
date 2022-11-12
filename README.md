@@ -5,7 +5,6 @@
 - 📫 How to reach me: 
           > dr.monish.dev555@gmail.com
 
-- Thank you for coming here, Please do follow for more projects 😉 
 
 
 <!---
