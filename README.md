@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate with UI/UX developers, Web developers and also App developers to make the best projects
 - 📫 How to reach me: 
           > dr.monish.dev555@gmail.com
-          > ig = __monish__.exe
 
 - Thank you for coming here, Please do follow for more projects 😉 
 
