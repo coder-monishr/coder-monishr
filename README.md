@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coder-monishr
+- 👋 Hi, I’m Monish. R
 - 👀 I’m interested in developing UI/UX, Websites and applications using python and some games using pygame in python 
 - 🌱 I’m currently a student of Sathyabama University, Chennai
 - 💞️ I’m looking to collaborate with UI/UX developers, Web developers and also App developers to make the best projects
