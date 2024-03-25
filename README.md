@@ -1,4 +1,11 @@
+
+<h4 align="center">Everywhere you go, take a smile with you! :wink:</h4>
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
+</p>
+
 ### Hi there 👋 ! I am Monish ! Welcome to my time stream.
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=coder-monishr&theme=onedark)](https://github.com/coder-monishr/github-profile-trophy)
 
@@ -17,7 +24,7 @@
 ![MacOS](https://img.shields.io/badge/Mac-os-FCC624)
 
 ## soon I will update more folks 
-<!---
+<!--
 coder-monishr/coder-monishr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
