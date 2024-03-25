@@ -16,7 +16,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624)
 ![MacOS](https://img.shields.io/badge/Mac-os-FCC624)
 
-
+## soon I will update more folks 
 <!---
 coder-monishr/coder-monishr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
