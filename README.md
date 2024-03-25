@@ -4,7 +4,7 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
 </p>
 
-### Hi there 👋 ! I am Monish ! Welcome to my time stream.
+### Hi there 👋 ! I am Monish ! Welcome to my stream.
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=coder-monishr&theme=onedark)](https://github.com/coder-monishr/github-profile-trophy)
