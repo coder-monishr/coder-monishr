@@ -11,7 +11,11 @@
 
 ![](https://komarev.com/ghpvc/?username=coder-monishr&color=green)
 
+
+
 <img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=coder-monishr&hide_border=true" /><img width="53%"  src="https://github-readme-stats.vercel.app/api?username=coder-monishr&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+
+![](https://github-readme-stats.zohan.tech/api/top-langs/?username=coder-monishr&layout=compact&theme=transparent&langs_count=10)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
