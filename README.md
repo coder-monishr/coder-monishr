@@ -1,4 +1,6 @@
-
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/coder-monishr/coder-monishr/main/name.svg" alt="coder-monishr" />
+</h1>
 
 <h4 align="center">Everywhere you go, take a smile with you! :wink:</h4>
 <p align="center">
