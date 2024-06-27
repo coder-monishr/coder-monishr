@@ -5,8 +5,6 @@
 </div>
 
 
-
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/coder-monishr/coder-monishr/main/name.svg" alt="coder-monishr" />
 </h1>
