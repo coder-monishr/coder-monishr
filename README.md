@@ -23,8 +23,6 @@
 ### Hi there 👋 ! I am Monish ! Welcome to my stream.
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=coder-monishr&theme=onedark)](https://github.com/coder-monishr/github-profile-trophy)
-
 ![](https://komarev.com/ghpvc/?username=coder-monishr&color=green)
 
 
